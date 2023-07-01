@@ -1,6 +1,6 @@
 # iDrac temperature monitor
 
-I am in the process to migrate the 
+I am in the process to migrate the https://github.com/Breina/idrac_power_monitor script to show temperature and fan speed.
 
 This integration will grab the temperature and fan speed from your Dell servers' iDrac system.
 
