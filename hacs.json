@@ -1,5 +1,5 @@
 {
-  "name": "iDrac power monitor",
+  "name": "iDrac temperature monitor",
   "render_readme": true,
   "domains": ["sensor"],
   "iot_class": ["Local Polling"],
